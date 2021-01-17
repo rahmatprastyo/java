@@ -1,2 +1,2 @@
-# learn-java-basic
+# learn-java
 learn java programming language
