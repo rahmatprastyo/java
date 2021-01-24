@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8fe288d-4887-4f4c-a2a6-ab0bdd62158d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/java/JavaBasic/KonversiTipeDataNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/JavaBasic/TipeDataNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/FotLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/KonversiTipeDataNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/MethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/MethodReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/MethodVariableArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/OperasiMatematika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/RecursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TipeDataBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TipeDataBukanPrimitif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TipeDataCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TipeDataNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/TipeDataString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8fe288d-4887-4f4c-a2a6-ab0bdd62158d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
