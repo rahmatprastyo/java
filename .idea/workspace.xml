@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8fe288d-4887-4f4c-a2a6-ab0bdd62158d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,8 +181,6 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-<<<<<<< HEAD
-=======
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -190,7 +190,6 @@
         </entry>
       </map>
     </option>
->>>>>>> 48f9264d12d5a20c92964e1d049db7c8055c4fd4
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
