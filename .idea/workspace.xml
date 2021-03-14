@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8fe288d-4887-4f4c-a2a6-ab0bdd62158d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/ManagarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/ParentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/PersonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/TypeCheckAndCasts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOOP/VicePresident.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
